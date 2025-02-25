@@ -53,7 +53,7 @@ const Page1 = () => {
       {/* GitHub Link */}
       <TouchableOpacity 
         style={styles.githubLink} 
-        onPress={() => Linking.openURL('https://github.com/yourusername/your-repo')}
+        onPress={() => Linking.openURL('https://github.com/shreedhar7/Redux-MiddleWare')}
       >
         <Text style={styles.githubText}>🌐 View on GitHub</Text>
       </TouchableOpacity>

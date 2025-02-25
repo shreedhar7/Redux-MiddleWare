@@ -9,8 +9,8 @@ const HomeScreen = ({ navigation }) => {
   const data = [
     { title: 'Todo List made with THUNK', screen: 'page1', color: ['#6DD5FA', '#2980B9'] },
     { title: 'How I used Thunk', screen: 'Page2', color: ['#FF6F61', '#D7263D'] },
-    { title: 'Redux Thunk', screen: 'page3', color: ['#7DCEA0', '#27AE60'] },
-    { title: 'Redux Saga', screen: 'Page4', color: ['#C39BD3', '#8E44AD'] },
+    { title: 'Analysis on Redux Thunk', screen: 'page3', color: ['#7DCEA0', '#27AE60'] },
+    { title: 'Analysis on Redux Saga', screen: 'Page4', color: ['#C39BD3', '#8E44AD'] },
   ];
 
   const socialLinks = [
